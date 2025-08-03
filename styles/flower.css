@@ -128,3 +128,56 @@ nav ul{
     top: -700px;
 
 }
+
+.section-2{
+    margin-top: 101px;
+}
+
+
+.Deals-title{
+    color: #E95A08;
+}
+
+.deals{
+    align-items: center;
+    display: flex;
+}
+
+.deals-styles{
+  
+    align-items: center;
+    justify-content: center;
+}
+
+.back-clr{
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 800;
+    
+}
+
+
+.img24{
+    border-radius: 5%;
+    height: 206px ;
+    width: 366px ;
+}
+
+.pashapashi{
+    align-items: center;
+    display: flex;
+}
+
+.img25{
+    border-radius: 5%;
+    width: 753px;
+    height: 424px;
+}
+
+.description-edit{
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    right: -90px;
+    top: -140px;
+}
