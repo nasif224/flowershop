@@ -61,3 +61,70 @@ nav ul{
         padding: 0.3rem , 0.2rem;
     }
  }
+
+ .plants-title{
+    font-size: 60px;
+    font-weight: bold;
+ }
+
+ .plants-description{
+    align-items: center;
+    justify-content: center;
+   
+ }
+ main{
+    max-width: 1400px;
+    margin: 0 auto;
+
+ }
+
+ .btn-style{
+    background-color: #E95A08;
+    height: 50px;
+    width: 270px;
+    border: none;
+ }
+ .font-color{
+    color: #FFFFFF;
+ }
+.chart-f1{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    gap: 20 30;
+    padding: 20px 30px;
+}
+
+.img3{
+    height:320px ;
+    width: 270px;
+}
+
+.seller{
+    width: 540px;
+    height: 597px;
+}
+
+.seller-style{
+     align-items: center;
+    display: flex;
+    justify-content: center;
+    gap: 50;
+    margin: 50 , 30 ;
+
+}
+
+.img-5{
+    width: 286px;
+    height: 286px;
+    position: relative;
+    right: -15px;
+}
+
+.img-edit{
+    position: relative;
+    right: -600px;
+    top: -700px;
+
+}
